@@ -1,9 +1,6 @@
 #!/usr/bin/env python
 
-########################################################
-## CIS 700 Term Project
-## Saurabh Patel, Ojas Juneja, Ronak Bhuptani
-#######################################################
+
 
 
 

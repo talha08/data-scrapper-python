@@ -2,10 +2,7 @@ import json
 import csv
 import os
 
-########################################################
-## CIS 700 Term Project
-## Saurabh Patel, Ojas Juneja, Ronak Bhuptani
-#######################################################
+
 
 def convertTocsv(jsonFileName,csvFileName):
     with open(jsonFileName) as file:

@@ -1,7 +1,4 @@
-########################################################
-## CIS 700 Term Project
-## Saurabh Patel, Ojas Juneja, Ronak Bhuptani
-#######################################################
+
 
 import httplib2
 import os
